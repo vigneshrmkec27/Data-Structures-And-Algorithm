@@ -1,18 +1,16 @@
-# Data-Structures-And-Algorithm
-A collection of LeetCode questions to ace the coding interview! - Created using [LeetHub v2](https://github.com/arunbhardwaj/LeetHub-2.0)
+# 🚀 Data Structures & Algorithms Journey [GFG + LeetCode]
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Array
-|  |
-| ------- |
-| [0084-largest-rectangle-in-histogram](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
-## Stack
-|  |
-| ------- |
-| [0084-largest-rectangle-in-histogram](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
-## Monotonic Stack
-|  |
-| ------- |
-| [0084-largest-rectangle-in-histogram](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0084-largest-rectangle-in-histogram) |
-<!---LeetCode Topics End-->
+Welcome to my **DSA Practice Repository**, where I document my learning, problem-solving, and progress through the world of **Data Structures and Algorithms** using platforms like **GeeksforGeeks** and **LeetCode**.
+
+This repository is a curated collection of problems solved, concepts mastered, and patterns identified to crack top-level coding interviews!
+
+---
+
+## 🌐 My Profiles
+
+- 🧩 [GeeksforGeeks](https://www.geeksforgeeks.org/user/vigneshzwax/)
+- 🧠 [LeetCode](https://leetcode.com/u/Vignesh_9055/)
+
+---
+
+> 🛠️ Built with ❤️ by Vignesh
