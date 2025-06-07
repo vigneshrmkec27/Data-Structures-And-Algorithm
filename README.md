@@ -14,3 +14,11 @@ This repository is a curated collection of problems solved, concepts mastered, a
 ---
 
 > 🛠️ Built with ❤️ by Vignesh
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Linked List
+|  |
+| ------- |
+| [0237-delete-node-in-a-linked-list](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0237-delete-node-in-a-linked-list) |
+<!---LeetCode Topics End-->
