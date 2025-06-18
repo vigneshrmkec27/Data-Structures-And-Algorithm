@@ -51,6 +51,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 ## Two Pointers
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0015-3sum) |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0061-rotate-list](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0061-rotate-list) |
 | [0141-linked-list-cycle](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0141-linked-list-cycle) |
@@ -70,9 +71,14 @@ This repository is a curated collection of problems solved, concepts mastered, a
 ## Sorting
 |  |
 | ------- |
+| [0015-3sum](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0015-3sum) |
 | [0148-sort-list](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0148-sort-list) |
 ## Merge Sort
 |  |
 | ------- |
 | [0148-sort-list](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0148-sort-list) |
+## Array
+|  |
+| ------- |
+| [0015-3sum](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0015-3sum) |
 <!---LeetCode Topics End-->
