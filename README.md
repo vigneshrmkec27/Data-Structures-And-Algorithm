@@ -48,6 +48,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 | [0141-linked-list-cycle](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
+| [0229-majority-element-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0229-majority-element-ii) |
 ## Two Pointers
 |  |
 | ------- |
@@ -75,6 +76,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 | [0015-3sum](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0018-4sum) |
 | [0148-sort-list](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0148-sort-list) |
+| [0229-majority-element-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0229-majority-element-ii) |
 ## Merge Sort
 |  |
 | ------- |
@@ -84,4 +86,9 @@ This repository is a curated collection of problems solved, concepts mastered, a
 | ------- |
 | [0015-3sum](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0018-4sum) |
+| [0229-majority-element-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0229-majority-element-ii) |
+## Counting
+|  |
+| ------- |
+| [0229-majority-element-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0229-majority-element-ii) |
 <!---LeetCode Topics End-->
