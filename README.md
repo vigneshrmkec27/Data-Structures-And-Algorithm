@@ -88,6 +88,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 | [0015-3sum](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0018-4sum) |
 | [0053-maximum-subarray](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0229-majority-element-ii) |
 ## Counting
 |  |
@@ -97,4 +98,5 @@ This repository is a curated collection of problems solved, concepts mastered, a
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0053-maximum-subarray) |
+| [0152-maximum-product-subarray](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0152-maximum-product-subarray) |
 <!---LeetCode Topics End-->
