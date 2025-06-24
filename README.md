@@ -98,6 +98,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 | [0088-merge-sorted-array](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0152-maximum-product-subarray](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0229-majority-element-ii) |
+| [1046-max-consecutive-ones-iii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
 ## Counting
 |  |
 | ------- |
@@ -115,4 +116,13 @@ This repository is a curated collection of problems solved, concepts mastered, a
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1046-max-consecutive-ones-iii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
