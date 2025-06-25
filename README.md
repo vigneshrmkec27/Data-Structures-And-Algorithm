@@ -36,6 +36,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0002-add-two-numbers) |
+| [1370-count-number-of-nice-subarrays](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1370-count-number-of-nice-subarrays) |
 ## Recursion
 |  |
 | ------- |
@@ -51,6 +52,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 | [0160-intersection-of-two-linked-lists](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0229-majority-element-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
+| [1370-count-number-of-nice-subarrays](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Two Pointers
 |  |
@@ -102,6 +104,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 | [0229-majority-element-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0229-majority-element-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1370-count-number-of-nice-subarrays) |
 ## Counting
 |  |
 | ------- |
@@ -122,6 +125,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 | [0003-longest-substring-without-repeating-characters](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0966-binary-subarrays-with-sum](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
@@ -132,4 +136,5 @@ This repository is a curated collection of problems solved, concepts mastered, a
 | ------- |
 | [0966-binary-subarrays-with-sum](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
+| [1370-count-number-of-nice-subarrays](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1370-count-number-of-nice-subarrays) |
 <!---LeetCode Topics End-->
