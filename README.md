@@ -50,6 +50,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 | [0142-linked-list-cycle-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
 | [0229-majority-element-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0229-majority-element-ii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Two Pointers
 |  |
 | ------- |
@@ -112,11 +113,13 @@ This repository is a curated collection of problems solved, concepts mastered, a
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [1046-max-consecutive-ones-iii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Binary Search
 |  |
 | ------- |
