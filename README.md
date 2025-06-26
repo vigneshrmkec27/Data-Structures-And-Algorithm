@@ -47,6 +47,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
@@ -119,12 +120,14 @@ This repository is a curated collection of problems solved, concepts mastered, a
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0076-minimum-window-substring](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
