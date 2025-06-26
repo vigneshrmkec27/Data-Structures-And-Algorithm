@@ -54,6 +54,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 | [0229-majority-element-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0229-majority-element-ii) |
 | [0424-longest-repeating-character-replacement](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1034-subarrays-with-k-different-integers) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 ## Two Pointers
@@ -105,12 +106,14 @@ This repository is a curated collection of problems solved, concepts mastered, a
 | [0152-maximum-product-subarray](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0229-majority-element-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1370-count-number-of-nice-subarrays) |
 ## Counting
 |  |
 | ------- |
 | [0229-majority-element-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0229-majority-element-ii) |
+| [1034-subarrays-with-k-different-integers](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1034-subarrays-with-k-different-integers) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -130,6 +133,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 | [0076-minimum-window-substring](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0076-minimum-window-substring) |
 | [0424-longest-repeating-character-replacement](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0424-longest-repeating-character-replacement) |
 | [0966-binary-subarrays-with-sum](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
+| [1034-subarrays-with-k-different-integers](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1370-count-number-of-nice-subarrays) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1460-number-of-substrings-containing-all-three-characters) |
