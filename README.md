@@ -49,6 +49,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0037-sudoku-solver](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0076-minimum-window-substring) |
 | [0141-linked-list-cycle](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0142-linked-list-cycle-ii) |
@@ -102,6 +103,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 | [0015-3sum](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
+| [0037-sudoku-solver](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0056-merge-intervals) |
@@ -160,6 +162,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0037-sudoku-solver) |
 | [0039-combination-sum](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0090-subsets-ii) |
@@ -168,4 +171,8 @@ This repository is a curated collection of problems solved, concepts mastered, a
 | ------- |
 | [0078-subsets](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0090-subsets-ii) |
+## Matrix
+|  |
+| ------- |
+| [0037-sudoku-solver](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0037-sudoku-solver) |
 <!---LeetCode Topics End-->
