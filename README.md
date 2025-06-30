@@ -107,6 +107,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 | [0056-merge-intervals](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0078-subsets) |
 | [0088-merge-sorted-array](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0088-merge-sorted-array) |
+| [0090-subsets-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0229-majority-element-ii) |
 | [0966-binary-subarrays-with-sum](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
@@ -161,8 +162,10 @@ This repository is a curated collection of problems solved, concepts mastered, a
 | ------- |
 | [0039-combination-sum](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0039-combination-sum) |
 | [0078-subsets](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0090-subsets-ii) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0078-subsets) |
+| [0090-subsets-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0090-subsets-ii) |
 <!---LeetCode Topics End-->
