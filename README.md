@@ -79,6 +79,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 |  |
 | ------- |
 | [0234-palindrome-linked-list](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0234-palindrome-linked-list) |
+| [2227-sum-of-subarray-ranges](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/2227-sum-of-subarray-ranges) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -116,6 +117,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 | [1034-subarrays-with-k-different-integers](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1370-count-number-of-nice-subarrays) |
+| [2227-sum-of-subarray-ranges](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/2227-sum-of-subarray-ranges) |
 ## Counting
 |  |
 | ------- |
@@ -175,4 +177,8 @@ This repository is a curated collection of problems solved, concepts mastered, a
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0037-sudoku-solver) |
+## Monotonic Stack
+|  |
+| ------- |
+| [2227-sum-of-subarray-ranges](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/2227-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
