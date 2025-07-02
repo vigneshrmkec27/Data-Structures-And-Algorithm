@@ -78,6 +78,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 ## Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0085-maximal-rectangle) |
 | [0234-palindrome-linked-list](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0234-palindrome-linked-list) |
 | [2227-sum-of-subarray-ranges](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/2227-sum-of-subarray-ranges) |
 ## Divide and Conquer
@@ -109,6 +110,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 | [0053-maximum-subarray](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0078-subsets) |
+| [0085-maximal-rectangle](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0152-maximum-product-subarray) |
@@ -127,6 +129,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 |  |
 | ------- |
 | [0053-maximum-subarray](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0053-maximum-subarray) |
+| [0085-maximal-rectangle](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0152-maximum-product-subarray) |
 | [1013-fibonacci-number](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1013-fibonacci-number) |
 ## String
@@ -177,8 +180,10 @@ This repository is a curated collection of problems solved, concepts mastered, a
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0037-sudoku-solver) |
+| [0085-maximal-rectangle](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0085-maximal-rectangle) |
 ## Monotonic Stack
 |  |
 | ------- |
+| [0085-maximal-rectangle](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0085-maximal-rectangle) |
 | [2227-sum-of-subarray-ranges](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/2227-sum-of-subarray-ranges) |
 <!---LeetCode Topics End-->
