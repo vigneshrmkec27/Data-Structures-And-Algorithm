@@ -115,6 +115,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 | [0090-subsets-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0152-maximum-product-subarray) |
 | [0229-majority-element-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0229-majority-element-ii) |
+| [0792-binary-search](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0792-binary-search) |
 | [0966-binary-subarrays-with-sum](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1034-subarrays-with-k-different-integers) |
 | [1046-max-consecutive-ones-iii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
@@ -153,6 +154,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 ## Binary Search
 |  |
 | ------- |
+| [0792-binary-search](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
 |  |
