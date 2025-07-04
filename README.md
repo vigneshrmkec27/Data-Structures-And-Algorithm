@@ -113,6 +113,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 | [0053-maximum-subarray](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0056-merge-intervals) |
 | [0078-subsets](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0078-subsets) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0085-maximal-rectangle](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0090-subsets-ii) |
@@ -160,6 +161,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 | [0033-search-in-rotated-sorted-array](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0035-search-insert-position) |
+| [0081-search-in-rotated-sorted-array-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0792-binary-search](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
