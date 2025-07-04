@@ -120,6 +120,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 | [0152-maximum-product-subarray](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0229-majority-element-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0229-majority-element-ii) |
+| [0540-single-element-in-a-sorted-array](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0792-binary-search) |
 | [0966-binary-subarrays-with-sum](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
 | [1034-subarrays-with-k-different-integers](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1034-subarrays-with-k-different-integers) |
@@ -164,6 +165,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 | [0035-search-insert-position](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
+| [0540-single-element-in-a-sorted-array](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
