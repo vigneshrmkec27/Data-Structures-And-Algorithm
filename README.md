@@ -118,6 +118,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 | [0088-merge-sorted-array](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0090-subsets-ii) |
 | [0152-maximum-product-subarray](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0152-maximum-product-subarray) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0229-majority-element-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0229-majority-element-ii) |
 | [0792-binary-search](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0792-binary-search) |
 | [0966-binary-subarrays-with-sum](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
@@ -162,6 +163,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0035-search-insert-position) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
+| [0153-find-minimum-in-rotated-sorted-array](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0792-binary-search](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0792-binary-search) |
 | [1046-max-consecutive-ones-iii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
 ## Prefix Sum
