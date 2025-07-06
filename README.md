@@ -84,6 +84,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 ## Divide and Conquer
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0053-maximum-subarray](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0053-maximum-subarray) |
 | [0148-sort-list](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0148-sort-list) |
 ## Sorting
@@ -102,6 +103,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 ## Array
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0015-3sum](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0018-4sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0026-remove-duplicates-from-sorted-array) |
@@ -162,6 +164,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 ## Binary Search
 |  |
 | ------- |
+| [0004-median-of-two-sorted-arrays](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0004-median-of-two-sorted-arrays) |
 | [0033-search-in-rotated-sorted-array](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0033-search-in-rotated-sorted-array) |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0035-search-insert-position](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0035-search-insert-position) |
