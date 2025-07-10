@@ -137,6 +137,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1646-kth-missing-positive-number) |
+| [2047-find-a-peak-element-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/2047-find-a-peak-element-ii) |
 | [2227-sum-of-subarray-ranges](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/2227-sum-of-subarray-ranges) |
 ## Counting
 |  |
@@ -188,6 +189,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [1646-kth-missing-positive-number](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1646-kth-missing-positive-number) |
+| [2047-find-a-peak-element-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/2047-find-a-peak-element-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -217,6 +219,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 | [0074-search-a-2d-matrix](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
+| [2047-find-a-peak-element-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/2047-find-a-peak-element-ii) |
 ## Monotonic Stack
 |  |
 | ------- |
