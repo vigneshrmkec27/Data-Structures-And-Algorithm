@@ -136,6 +136,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 | [1370-count-number-of-nice-subarrays](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1370-count-number-of-nice-subarrays) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1646-kth-missing-positive-number) |
 | [2227-sum-of-subarray-ranges](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/2227-sum-of-subarray-ranges) |
 ## Counting
 |  |
@@ -186,6 +187,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1408-find-the-smallest-divisor-given-a-threshold](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1408-find-the-smallest-divisor-given-a-threshold) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
+| [1646-kth-missing-positive-number](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1646-kth-missing-positive-number) |
 ## Prefix Sum
 |  |
 | ------- |
