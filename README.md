@@ -126,6 +126,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 | [0162-find-peak-element](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0162-find-peak-element) |
 | [0229-majority-element-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0229-majority-element-ii) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
+| [0410-split-array-largest-sum](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0907-koko-eating-bananas) |
@@ -150,6 +151,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 | [0053-maximum-subarray](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0053-maximum-subarray) |
 | [0085-maximal-rectangle](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0085-maximal-rectangle) |
 | [0152-maximum-product-subarray](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0152-maximum-product-subarray) |
+| [0410-split-array-largest-sum](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [1013-fibonacci-number](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1013-fibonacci-number) |
 ## String
 |  |
@@ -181,6 +183,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0162-find-peak-element) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
+| [0410-split-array-largest-sum](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0540-single-element-in-a-sorted-array) |
 | [0792-binary-search](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0792-binary-search) |
 | [0907-koko-eating-bananas](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0907-koko-eating-bananas) |
@@ -193,6 +196,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0410-split-array-largest-sum) |
 | [0966-binary-subarrays-with-sum](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0966-binary-subarrays-with-sum) |
 | [1046-max-consecutive-ones-iii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1046-max-consecutive-ones-iii) |
 | [1370-count-number-of-nice-subarrays](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/1370-count-number-of-nice-subarrays) |
@@ -225,4 +229,8 @@ This repository is a curated collection of problems solved, concepts mastered, a
 | ------- |
 | [0085-maximal-rectangle](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0085-maximal-rectangle) |
 | [2227-sum-of-subarray-ranges](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/2227-sum-of-subarray-ranges) |
+## Greedy
+|  |
+| ------- |
+| [0410-split-array-largest-sum](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0410-split-array-largest-sum) |
 <!---LeetCode Topics End-->
