@@ -216,6 +216,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 | ------- |
 | [0078-subsets](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0078-subsets) |
 | [0090-subsets-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0090-subsets-ii) |
+| [2323-minimum-bit-flips-to-convert-number](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Matrix
 |  |
 | ------- |
