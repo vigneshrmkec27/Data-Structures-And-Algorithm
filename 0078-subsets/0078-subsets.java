@@ -1,18 +1,19 @@
 class Solution {
     public List<List<Integer>> subsets(int[] nums) {
-        List<List<Integer>>res=new ArrayList<>();
-        powerset(nums,0,new ArrayList<>(),res);
-        return res;
+        
+        int n = nums.length;
+        int total = 1 << n;
+        List<List<Integer>> allsubsets = new ArrayList<>();
+        
+        for (int mask = 0; mask < total; mask++) {
+            List<Integer> ans = new ArrayList<>();
+            for (int i = 0; i < n; i++) {
+                if ((mask & (1 << i)) != 0) {
+                    ans.add(nums[i]);
+                }
+            }
+            allsubsets.add(ans);
     }
-    private void powerset(int[] nums,int index,List<Integer>current, List<List<Integer>>res)
-    {
-        if(index==nums.length){
-            res.add(new ArrayList<>(current));
-            return;
-        }
-        current.add(nums[index]);
-        powerset(nums,index+1,current,res);
-        current.remove(current.size()-1);
-         powerset(nums,index+1,current,res);
-    }
+    return allsubsets;
+}
 }
