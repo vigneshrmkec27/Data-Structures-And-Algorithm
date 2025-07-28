@@ -50,6 +50,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0076-minimum-window-substring](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0141-linked-list-cycle) |
@@ -118,6 +119,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 | [0039-combination-sum](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0039-combination-sum) |
 | [0053-maximum-subarray](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0053-maximum-subarray) |
 | [0056-merge-intervals](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0056-merge-intervals) |
+| [0073-set-matrix-zeroes](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0078-subsets](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0078-subsets) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0081-search-in-rotated-sorted-array-ii) |
@@ -225,6 +227,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 |  |
 | ------- |
 | [0037-sudoku-solver](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0037-sudoku-solver) |
+| [0073-set-matrix-zeroes](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0073-set-matrix-zeroes) |
 | [0074-search-a-2d-matrix](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0074-search-a-2d-matrix) |
 | [0085-maximal-rectangle](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0085-maximal-rectangle) |
 | [0240-search-a-2d-matrix-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0240-search-a-2d-matrix-ii) |
