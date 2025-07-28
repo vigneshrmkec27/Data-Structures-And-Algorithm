@@ -51,6 +51,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 | [0003-longest-substring-without-repeating-characters](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0037-sudoku-solver](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0037-sudoku-solver) |
 | [0076-minimum-window-substring](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0076-minimum-window-substring) |
+| [0128-longest-consecutive-sequence](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0141-linked-list-cycle](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0141-linked-list-cycle) |
 | [0142-linked-list-cycle-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0142-linked-list-cycle-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0160-intersection-of-two-linked-lists) |
@@ -123,6 +124,7 @@ This repository is a curated collection of problems solved, concepts mastered, a
 | [0085-maximal-rectangle](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0085-maximal-rectangle) |
 | [0088-merge-sorted-array](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0088-merge-sorted-array) |
 | [0090-subsets-ii](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0090-subsets-ii) |
+| [0128-longest-consecutive-sequence](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 | [0152-maximum-product-subarray](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0152-maximum-product-subarray) |
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0162-find-peak-element) |
@@ -236,4 +238,8 @@ This repository is a curated collection of problems solved, concepts mastered, a
 |  |
 | ------- |
 | [0410-split-array-largest-sum](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0410-split-array-largest-sum) |
+## Union Find
+|  |
+| ------- |
+| [0128-longest-consecutive-sequence](https://github.com/vigneshrmkec27/Data-Structures-And-Algorithm/tree/master/0128-longest-consecutive-sequence) |
 <!---LeetCode Topics End-->
